@@ -1,7 +1,7 @@
 # Important
 ## How to Run
- - This proyect was created with Next.js, you can find the oficial documentation here: [[NextjsReadme.md]].
- -Note: to run this proyect, I highly recommend to use npm:
+ - This proyect was created with Next.js, you can find the oficial documentation here: [NextjsReadme.md]
+ - Note: to run this proyect, I highly recommend to use npm:
 
         ```
          npx create-next-app@latest
